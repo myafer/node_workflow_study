@@ -1,0 +1,22 @@
+{
+  "name": "node_workflow_study",
+  "version": "1.0.0",
+  "description": "Nodejs workflow study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myafer/node_workflow_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myafer/node_workflow_study/issues"
+  },
+  "homepage": "https://github.com/myafer/node_workflow_study#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
