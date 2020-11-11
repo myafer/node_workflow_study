@@ -9,6 +9,14 @@ on:
   pull_request:
     branches: [ main ]
 
+notifications:
+  recipients:
+    - 791143125@qq.com
+   
+  email:
+    on_success: change
+    on_failure: always
+
 jobs:
   build:
 
