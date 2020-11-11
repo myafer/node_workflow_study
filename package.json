@@ -4,7 +4,8 @@
   "description": "Nodejs workflow study project",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "run": "node index.js",
+    "test": ""
   },
   "repository": {
     "type": "git",
