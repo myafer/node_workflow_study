@@ -3,11 +3,5 @@ os:
   - linux
 node_js:
   - 10
-notifications:
-  recipients:
-    - 791143125@qq.com
-  email:
-    on_success: always
-    on_failure: always
 script:
      - npm test
