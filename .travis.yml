@@ -5,5 +5,7 @@ notifications:
   email:
     recipients:
       - 791143125@qq.com
-    on_success: never # default: change
+    on_success: always # default: change
     on_failure: always # default: always
+
+    - npm test
